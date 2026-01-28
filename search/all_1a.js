@@ -9,9 +9,10 @@ var searchData=
   ['unget_5fch_6',['unget_ch',['../d9/deb/min__printf_8h.html#aa8a17b7d234a2fb2174da02074a14055',1,'min_printf.h']]],
   ['union_5ffind_2ec_7',['union_find.c',['../df/df3/union__find_8c.html',1,'']]],
   ['unit_5fvec_8',['unit_vec',['../de/d7b/group__vec__3d.html#ga3cdfd8378a0b115563ea6c561bb46b7e',1,'vectors_3d.c']]],
-  ['up_20the_20project_20💻_9',['💻 Cloning/setting up the project 💻',['../d9/d9b/md_leetcode_2_r_e_a_d_m_e.html#autotoc_md74',1,'']]],
+  ['up_20the_20project_20💻_9',['💻 Cloning/setting up the project 💻',['../dir_03902f230b9e9b7c999f936617a23997.html#autotoc_md84',1,'']]],
   ['update_10',['update',['../d2/d87/non__preemptive__priority__scheduling_8c.html#a9bc34d3b138bd0153a942cf6a8b31533',1,'non_preemptive_priority_scheduling.c']]],
-  ['user_20interface_11',['User-interface',['../dc/d64/md__coding_guidelines.html#autotoc_md14',1,'']]],
-  ['user_5fgraph_12',['user_graph',['../d9/dcc/prim_8c.html#addac7a8c7bfd3e5573dad1f6aeff7768',1,'prim.c']]],
-  ['using_20the_20a_20href_20https_3a_20github_20com_20thealgorithms_20algorithms_20explanation_20blob_20master_20en_20search_2020algorithms_20binary_2020search_20md_20target_20_5fblank_20binary_20search_20a_13',['the array using the &lt;a href=&quot;https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md&quot; target=&quot;_blank&quot; &gt;Binary Search&lt;/a&gt;',['../da/d6c/exponential__search_8c.html#autotoc_md84',1,'']]]
+  ['usage_11',['Usage',['../d7/d62/md_docs_2getting-started.html#autotoc_md73',1,'']]],
+  ['user_20interface_12',['User-interface',['../dc/d64/md__coding_guidelines.html#autotoc_md14',1,'']]],
+  ['user_5fgraph_13',['user_graph',['../d9/dcc/prim_8c.html#addac7a8c7bfd3e5573dad1f6aeff7768',1,'prim.c']]],
+  ['using_20the_20binary_20search_14',['the array using the &lt;a href=&quot;https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md&quot; target=&quot;_blank&quot;&gt;Binary Search&lt;/a&gt;',['../da/d6c/exponential__search_8c.html#autotoc_md94',1,'']]]
 ];

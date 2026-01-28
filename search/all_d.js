@@ -4,7 +4,7 @@ var searchData=
   ['hamming_5fdistance_2ec_1',['hamming_distance.c',['../d5/da4/hamming__distance_8c.html',1,'']]],
   ['hangman_2ec_2',['hangman.c',['../dc/dc5/hangman_8c.html',1,'']]],
   ['hash_3',['Hash',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59',1,'']]],
-  ['hash_20algorithms_4',['hash algorithms',['../d7/d3b/group__hash.html',1,'Hash algorithms'],['../d1/dfe/md_hash_2_r_e_a_d_m_e.html',1,'Hash algorithms']]],
+  ['hash_20algorithms_4',['Hash algorithms',['../d7/d3b/group__hash.html',1,'Hash algorithms'],['../dir_72aaf47615111200018c039a56ef48be.html#autotoc_md80',1,'Hash algorithms']]],
   ['hash_5fadler32_2ec_5',['hash_adler32.c',['../d3/d39/hash__adler32_8c.html',1,'']]],
   ['hash_5fblake2b_2ec_6',['hash_blake2b.c',['../dc/d1d/hash__blake2b_8c.html',1,'']]],
   ['hash_5fcrc32_2ec_7',['hash_crc32.c',['../d9/dc9/hash__crc32_8c.html',1,'']]],
@@ -21,8 +21,5 @@ var searchData=
   ['hex_5fto_5foct_18',['hex_to_oct',['../d0/dd9/hexadecimal__to__octal2_8c.html#ab83549c0d43c88544be47fa6c4885ae4',1,'hexadecimal_to_octal2.c']]],
   ['hexadecimal_5fto_5foctal2_2ec_19',['hexadecimal_to_octal2.c',['../d0/dd9/hexadecimal__to__octal2_8c.html',1,'']]],
   ['hidden_20',['hidden',['../d1/d01/structgame__instance.html#aabb340e08e8ab73df250a6fe3b6f532d',1,'game_instance']]],
-  ['href_20http_3a_20exercism_20io_20target_20_5fblank_20exercism_20io_20a_21',['Sample solutions for &lt;a href=&quot;http://exercism.io/&quot; target=&quot;_blank&quot; &gt;exercism.io&lt;/a&gt;',['../de/dd4/md_exercism_2_r_e_a_d_m_e.html',1,'']]],
-  ['href_20https_3a_20github_20com_20thealgorithms_20algorithms_20explanation_20blob_20master_20en_20search_2020algorithms_20binary_2020search_20md_20target_20_5fblank_20binary_20search_20a_22',['the array using the &lt;a href=&quot;https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md&quot; target=&quot;_blank&quot; &gt;Binary Search&lt;/a&gt;',['../da/d6c/exponential__search_8c.html#autotoc_md84',1,'']]],
-  ['http_3a_20exercism_20io_20target_20_5fblank_20exercism_20io_20a_23',['Sample solutions for &lt;a href=&quot;http://exercism.io/&quot; target=&quot;_blank&quot; &gt;exercism.io&lt;/a&gt;',['../de/dd4/md_exercism_2_r_e_a_d_m_e.html',1,'']]],
-  ['https_3a_20github_20com_20thealgorithms_20algorithms_20explanation_20blob_20master_20en_20search_2020algorithms_20binary_2020search_20md_20target_20_5fblank_20binary_20search_20a_24',['the array using the &lt;a href=&quot;https://github.com/TheAlgorithms/Algorithms-Explanation/blob/master/en/Search%20Algorithms/Binary%20Search.md&quot; target=&quot;_blank&quot; &gt;Binary Search&lt;/a&gt;',['../da/d6c/exponential__search_8c.html#autotoc_md84',1,'']]]
+  ['http_3a_20exercism_20io_21',['Sample solutions for [exercism.io](&lt;a href=&quot;http://exercism.io/&quot;&gt;http://exercism.io/&lt;/a&gt;)',['../dir_48bf5503321d91c557399989fed5dabd.html#autotoc_md78',1,'']]]
 ];

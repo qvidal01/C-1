@@ -7,11 +7,12 @@ var searchData=
   ['qr_5feigen_5fvalues_2ec_4',['qr_eigen_values.c',['../d7/d50/qr__eigen__values_8c.html',1,'']]],
   ['quat_5ffrom_5feuler_5',['quat_from_euler',['../dc/d9a/group__quats.html#ga4779f448daaf806ce5e750c13b3e0965',1,'quaternions.c']]],
   ['quaternion_6',['quaternion',['../dc/d9a/group__quats.html#gaacd70a16b61dd47a19eb5fb729c2669b',1,'geometry_datatypes.h']]],
-  ['quaternion_20operations_7',['quaternion operations',['../d4/d69/group__dual__quats.html',1,'3D Dual-Quaternion operations'],['../dc/d9a/group__quats.html',1,'3D Quaternion operations']]],
+  ['quaternion_20operations_7',['Quaternion operations',['../d4/d69/group__dual__quats.html',1,'3D Dual-Quaternion operations'],['../dc/d9a/group__quats.html',1,'3D Quaternion operations']]],
   ['quaternion_5f_8',['quaternion_',['../de/d58/structquaternion__.html',1,'']]],
   ['quaternion_5fmultiply_9',['quaternion_multiply',['../dc/d9a/group__quats.html#gaf5ad0f9c4f0facc5a9c3735a178156b1',1,'quaternions.c']]],
-  ['quaternions_10',['Library for 3D Vectors &amp; Quaternions',['../de/d5a/group__quaternions.html',1,'']]],
+  ['quaternions_10',['Library for 3D Vectors &amp;amp; Quaternions',['../de/d5a/group__quaternions.html',1,'']]],
   ['quaternions_2ec_11',['quaternions.c',['../df/d98/quaternions_8c.html',1,'']]],
   ['queue_12',['queue',['../d2/d36/structqueue.html',1,'']]],
-  ['queuerep_13',['QueueRep',['../d0/d10/struct_queue_rep.html',1,'']]]
+  ['queuerep_13',['QueueRep',['../d0/d10/struct_queue_rep.html',1,'']]],
+  ['quick_20start_14',['Quick Start',['../d3/d4c/md_docs_2index.html#autotoc_md76',1,'']]]
 ];

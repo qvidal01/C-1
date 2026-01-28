@@ -15,6 +15,6 @@ var searchData=
   ['vector_5fprod_12',['vector_prod',['../de/d7b/group__vec__3d.html#gae4a49e6bdf13df949e8b23c7925bb5f5',1,'vectors_3d.c']]],
   ['vector_5fproj_13',['vector_proj',['../d4/d68/qr__decompose_8h.html#a2ed4977f38642dca8b10c16a823c740b',1,'qr_decompose.h']]],
   ['vector_5fsub_14',['vector_sub',['../de/d7b/group__vec__3d.html#ga97da356cb7d5da73a0ac9bad09a435cc',1,'vector_sub(const vec_3d *a, const vec_3d *b):&#160;vectors_3d.c'],['../d4/d68/qr__decompose_8h.html#a5ee39e7c8fce8a604dcf7009ce101c02',1,'vector_sub(double *a, double *b, double *out, int L):&#160;qr_decompose.h']]],
-  ['vectors_20quaternions_15',['Library for 3D Vectors &amp; Quaternions',['../de/d5a/group__quaternions.html',1,'']]],
+  ['vectors_20quaternions_15',['Library for 3D Vectors &amp;amp; Quaternions',['../de/d5a/group__quaternions.html',1,'']]],
   ['vectors_5f3d_2ec_16',['vectors_3d.c',['../d5/db8/vectors__3d_8c.html',1,'']]]
 ];

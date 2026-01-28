@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['sample_20solutions_20for_20a_20href_20http_3a_20exercism_20io_20target_20_5fblank_20exercism_20io_20a_0',['Sample solutions for &lt;a href=&quot;http://exercism.io/&quot; target=&quot;_blank&quot; &gt;exercism.io&lt;/a&gt;',['../de/dd4/md_exercism_2_r_e_a_d_m_e.html',1,'']]],
-  ['simple_20generic_20stack_1',['Simple generic Stack',['../d6/d2c/md_data__structures_2stack_2_r_e_a_d_m_e.html',1,'']]],
-  ['solutions_20for_20a_20href_20http_3a_20exercism_20io_20target_20_5fblank_20exercism_20io_20a_2',['Sample solutions for &lt;a href=&quot;http://exercism.io/&quot; target=&quot;_blank&quot; &gt;exercism.io&lt;/a&gt;',['../de/dd4/md_exercism_2_r_e_a_d_m_e.html',1,'']]],
-  ['stack_3',['Simple generic Stack',['../d6/d2c/md_data__structures_2stack_2_r_e_a_d_m_e.html',1,'']]],
-  ['style_20convention_4',['Code style convention',['../dc/d64/md__coding_guidelines.html',1,'']]]
+  ['machine_20learning_0',['Machine Learning',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60',1,'']]],
+  ['maintainer_20reviewer_1',['Maintainer/reviewer',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md20',1,'']]],
+  ['maintainers_2',['Guidelines for reviewers and maintainers',['../d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html',1,'']]],
+  ['making_20changes_3',['Making Changes',['../d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md23',1,'']]],
+  ['math_4',['Math',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61',1,'']]],
+  ['methods_5',['Numerical Methods',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63',1,'']]],
+  ['misc_6',['Misc',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62',1,'']]]
 ];

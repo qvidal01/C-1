@@ -71,13 +71,6 @@ var NAVTREE =
         ] ]
       ] ]
     ] ],
-    [ "Array", "d0/dd9/md_data__structures_2array_2_r_e_a_d_m_e.html", [
-      [ "Sort Function", "d0/dd9/md_data__structures_2array_2_r_e_a_d_m_e.html#autotoc_md39", null ],
-      [ "Structure", "d0/dd9/md_data__structures_2array_2_r_e_a_d_m_e.html#autotoc_md40", null ],
-      [ "Files", "d0/dd9/md_data__structures_2array_2_r_e_a_d_m_e.html#autotoc_md41", null ]
-    ] ],
-    [ "Dictionary", "d1/d52/md_data__structures_2dictionary_2_r_e_a_d_m_e.html", null ],
-    [ "Simple generic Stack", "d6/d2c/md_data__structures_2stack_2_r_e_a_d_m_e.html", null ],
     [ "Audio", "d5/d88/md__d_i_r_e_c_t_o_r_y.html", [
       [ "Cipher", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
       [ "Client Server", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
@@ -100,15 +93,20 @@ var NAVTREE =
       [ "Searching", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md66", null ],
       [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md67", null ]
     ] ],
-    [ "Sample solutions for <a href=\"http://exercism.io/\" target=\"_blank\" >exercism.io</a>", "de/dd4/md_exercism_2_r_e_a_d_m_e.html", null ],
-    [ "Hash algorithms", "d1/dfe/md_hash_2_r_e_a_d_m_e.html", null ],
-    [ "LeetCode", "db/d5f/md_leetcode_2_d_i_r_e_c_t_o_r_y.html", null ],
-    [ "📚 Contributing 📚", "d9/d9b/md_leetcode_2_r_e_a_d_m_e.html", [
-      [ "💻 Cloning/setting up the project 💻", "d9/d9b/md_leetcode_2_r_e_a_d_m_e.html#autotoc_md74", null ],
-      [ "📝 Adding a new solution 📝", "d9/d9b/md_leetcode_2_r_e_a_d_m_e.html#autotoc_md75", null ],
-      [ "📦 Committing your changes 📦", "d9/d9b/md_leetcode_2_r_e_a_d_m_e.html#autotoc_md76", null ]
+    [ "API Reference", "d9/de9/md_docs_2api.html", [
+      [ "Overview", "d9/de9/md_docs_2api.html#autotoc_md69", null ]
     ] ],
-    [ "ProjectEuler", "d0/da3/md_project__euler_2_r_e_a_d_m_e.html", null ],
+    [ "Getting Started", "d7/d62/md_docs_2getting-started.html", [
+      [ "Prerequisites", "d7/d62/md_docs_2getting-started.html#autotoc_md71", null ],
+      [ "Installation", "d7/d62/md_docs_2getting-started.html#autotoc_md72", null ],
+      [ "Usage", "d7/d62/md_docs_2getting-started.html#autotoc_md73", null ]
+    ] ],
+    [ "C-1", "d3/d4c/md_docs_2index.html", [
+      [ "Installation", "d3/d4c/md_docs_2index.html#autotoc_md75", null ],
+      [ "Quick Start", "d3/d4c/md_docs_2index.html#autotoc_md76", null ],
+      [ "Documentation", "d3/d4c/md_docs_2index.html#autotoc_md77", null ]
+    ] ],
+    [ "LeetCode", "db/d5f/md_leetcode_2_d_i_r_e_c_t_o_r_y.html", null ],
     [ "Guidelines for reviewers and maintainers", "d7/d1b/md__r_e_v_i_e_w_e_r___c_o_d_e.html", null ],
     [ "Topics", "topics.html", "topics" ],
     [ "Data Structures", "annotated.html", [
@@ -135,11 +133,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md6",
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md31",
-"da/d96/infix__to__postfix2_8c.html#ae363a3863a8bfbf40e7a95c2b9dbe71b",
-"dd/de4/bubble__sort_8c.html#ae1a3968e7947464bee7714f6d43b7002"
+"d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md9",
+"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md35",
+"da/da0/segment__tree_8c.html",
+"dd/de6/roman__numerals__to__decimal_8c.html#a1e86fb4466b6a175b910fa19c4a6ea03"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';
